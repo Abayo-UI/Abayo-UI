@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abayo-UI
-- 👀 I’m interested in Cyber security
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on ( still not sure )
 - 📫 How to reach me 
