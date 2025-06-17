@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm  SJAbayo</h1>
+<h1 align="center">Hey there 👋, I'm SJAbayo</h1>
 <h3 align="center">MERN / PERN Stack Developer | Coffee-fueled Code Mechanic</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abayo-ui&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abayo-ui&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies - Mid Dev" />
   </a>
 </p>
 
@@ -15,39 +15,6 @@
 
 ### 🌱 Currently Learning
 - Advanced backend practices & testing
-- Quality assurance with **Mocha** & **Chai**
-
-### ⚡ Fun Fact
-> My code doesn’t have bugs — it just develops **unexpected features**. Like a Pokémon, but sassier.
-
-
-### 💬 Ask Me About
-- Full-stack dev with **React**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**
-
-
----
-
-<h3 align="left">🧠 Tech Stack</h3>
-
-#### 💻 Frontend
-<p align="left"><h1 align="center">Hey there 👋, I'm <code>__dirname</code> SJAbayo</h1>
-<h3 align="center">MERN / PERN Stack Developer | Coffee-fueled Code Mechanic</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abayo-ui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- Edited "Mid Dev" badge text via theme parameter -->
-    <img src="https://github-profile-trophy.vercel.app/?username=abayo-ui&theme=algolia&margin-w=15&margin-h=15&rank=mid" alt="GitHub Trophies - Mid Dev" />
-  </a>
-</p>
-
----
-
-### 🌱 Currently Learning
-- Advanced backend architecture & automated testing
 - Quality assurance with **Mocha** & **Chai**
 
 ### 💬 Ask Me About
@@ -71,6 +38,7 @@
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></a>
 </p>
+<p><em>📝 Also building with vanilla JavaScript</em></p>
 
 #### 🛠️ Backend
 <p align="left">
@@ -90,9 +58,10 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
 </p>
 
-#### 🔧 Version Control
+#### 🔧 Version Control & Tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  <img src="https://img.shields.io/badge/Git%20Bash-terminal-informational?logo=git&style=flat" alt="Git Bash" />
 </p>
 
 ---
@@ -101,6 +70,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abayo-ui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+<h3 align="left">🔥 GitHub Contribution Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abayo-ui&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
 
 
 
