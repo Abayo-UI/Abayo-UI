@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm SJAbayo</h1>
-<h3 align="center">MERN / PERN Stack Developer | Coffee-fueled Code Mechanic</h3>
+<h3 align="center">MERN / PERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abayo-ui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
