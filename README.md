@@ -57,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js"/>
   </a>
 </p>
-
+<p><em>📝 Also building with vanilla JavaScript</em></p>
 
 #### 🛠️ Backend
 <p align="left">
@@ -68,22 +68,29 @@
   <img src="https://img.shields.io/badge/Express.js-Backend-green?style=flat&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-
 #### 🧪 Testing & QA
 <p align="left">
-  <a href="https://mochajs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40" height="40" alt="Mocha"/></a>
+  <a href="https://mochajs.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40" height="40" alt="Mocha"/>
+  </a>
   <img src="https://img.shields.io/badge/Chai-assertion-red?logo=chai&logoColor=white&style=flat" alt="Chai" />
 </p>
 
 #### 🗃️ Databases
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  </a>
 </p>
 
 #### 🔧 Version Control & Tools
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  </a>
   <img src="https://img.shields.io/badge/Git%20Bash-terminal-informational?logo=git&style=flat" alt="Git Bash" />
 </p>
 
@@ -98,11 +105,8 @@
 
 <h3 align="left">🔥 GitHub Contribution Streak</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abayo-ui&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=abayo-ui&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
-
-
-
 
 <!---
 Abayo-UI/Abayo-UI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
