@@ -66,6 +66,7 @@
   </a>
   <!-- Replaced Express logo with a visible green badge -->
   <img src="https://img.shields.io/badge/Express.js-Backend-green?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+  
 </p>
 
 #### 🧪 Testing & QA
@@ -91,15 +92,12 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
   </a>
-  <img src="https://img.shields.io/badge/Git%20Bash-terminal-informational?logo=git&style=flat" alt="Git Bash" />
+  
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM"/>
+  </a>
 </p>
 
----
-
-<h3 align="left">📊 Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abayo-ui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
