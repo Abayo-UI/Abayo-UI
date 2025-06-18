@@ -21,7 +21,7 @@
 - Full-stack development with **React**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**
 
 ### ⚡ Fun Fact
-> My code doesn’t have bugs — it just develops **unexpected features**. Like a Pokémon, but sassier.
+> My code doesn’t have bugs — it just develops **unexpected features**.
 
 ---
 
