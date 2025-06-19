@@ -56,8 +56,14 @@
   <a href="https://d3js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/>
+  </a>
+  <a href="https://reactrouter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/remix-run/react-router/main/website/static/img/icon-light.png" width="40" height="40" alt="React Router"/>
+  </a>
 </p>
-<p><em>📝 Also building with vanilla JavaScript</em></p>
+<p>
 
 #### 🛠️ Backend
 <p align="left">
