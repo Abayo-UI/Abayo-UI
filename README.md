@@ -59,11 +59,8 @@
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/>
   </a>
-  <a href="https://reactrouter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/remix-run/react-router/main/website/static/img/icon-light.png" width="40" height="40" alt="React Router"/>
-  </a>
+  <img src="https://img.shields.io/badge/React_Router-red?logo=react-router&logoColor=white&style=flat" alt="React Router"/>
 </p>
-<p>
 
 #### 🛠️ Backend
 <p align="left">
